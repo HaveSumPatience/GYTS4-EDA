@@ -1,0 +1,106 @@
+State,Area,curr_tob_user,ecig_aware,ever_ecig_use
+Andaman and Nicobar Islands,Total,4.4,13.6,1.6
+Andaman and Nicobar Islands,Urban,3.4,10,1.1
+Andaman and Nicobar Islands,Rural,5.1,15.8,2
+Andhra Pradesh,Total,2.6,16.5,0.7
+Andhra Pradesh,Urban,0.7,17.7,0.4
+Andhra Pradesh,Rural,3.5,15.9,0.9
+Arunachal Pradesh,Total,57.9,25.9,16.6
+Arunachal Pradesh,Urban,51.4,24.1,18.6
+Arunachal Pradesh,Rural,69.2,29,13.2
+Assam,Total,11.9,28.6,4.2
+Assam,Urban,5.3,15.2,0.9
+Assam,Rural,12.5,29.7,4.5
+Bihar,Total,7.3,39.3,2
+Bihar,Urban,7,34.8,3.5
+Bihar,Rural,7.3,39.6,1.9
+Chandigarh,Total,3,24.8,2.5
+Chandigarh,Urban,3,25.4,2.4
+Chandigarh,Rural,3.2,11.6,4.6
+Chhattisgarh,Total,8,20.6,2.1
+Chhattisgarh,Urban,7.5,28.8,2.4
+Chhattisgarh,Rural,8.1,18.7,2
+Dadra and Nagar Haweli,Total,2.4,17.2,1.2
+Dadra and Nagar Haweli,Urban,2.1,15.5,0.5
+Dadra and Nagar Haweli,Rural,2.5,18.1,1.6
+Daman and Diu,Total,4.3,26.2,1.5
+Daman and Diu,Urban,1.9,25,0.7
+Daman and Diu,Rural,5.5,26.8,1.9
+Delhi,Total,8,40.6,11.1
+Delhi,Urban,8.1,41.1,11.4
+Delhi,Rural,5.7,28.1,2.9
+Goa,Total,2.1,22,0.7
+Goa,Urban,1.9,23.3,0.9
+Goa,Rural,2.2,21.2,0.5
+Gujarat,Total,5.4,21.6,2
+Gujarat,Urban,3.3,25.3,0.9
+Gujarat,Rural,6.1,20.3,2.4
+Haryana,Total,3.8,31,2.2
+Haryana,Urban,5.6,31.1,4
+Haryana,Rural,2.6,30.9,1
+Himachal Pradesh,Total,1,15.1,0.4
+Himachal Pradesh,Urban,1.4,27.2,0.6
+Himachal Pradesh,Rural,1,13.5,0.3
+Jharkhand,Total,5.1,31.4,3.6
+Jharkhand,Urban,2.4,30.9,2.6
+Jharkhand,Rural,5.6,31.5,3.7
+Karnataka,Total,1.2,21.4,0
+Karnataka,Urban,0,0.4,0
+Karnataka,Rural,1.2,21.4,0
+Kerala,Total,3.2,41,2.1
+Kerala,Urban,1.7,38.7,1.9
+Kerala,Rural,3.5,41.4,2.2
+Lakshadweep,Total,8.1,37.9,2.9
+Lakshadweep,Urban,6.1,31.7,0.3
+Lakshadweep,Rural,8.6,39.5,3.5
+Madhya Pradesh,Total,3.9,26.4,2.7
+Madhya Pradesh,Urban,3.3,23.5,2
+Madhya Pradesh,Rural,4,26.8,2.8
+Maharashtra,Total,5.1,25.5,2.8
+Maharashtra,Urban,5.7,25.6,3
+Maharashtra,Rural,4.6,25.4,2.5
+Manipur,Total,19.5,10.2,1.9
+Manipur,Urban,16.8,14.9,3.3
+Manipur,Rural,20.5,8.4,1.3
+Meghalaya,Total,33.6,36.9,11.1
+Meghalaya,Urban,35.1,47.3,14.8
+Meghalaya,Rural,33.2,33.9,10
+Mizoram,Total,57.9,37.9,21.1
+Mizoram,Urban,59.6,37.7,18.5
+Mizoram,Rural,55.8,38.2,24.4
+Nagaland,Total,42.6,17.3,2.9
+Nagaland,Urban,37.4,19.5,3.4
+Nagaland,Rural,46.8,15.5,2.6
+Odisha,Total,6.2,9.6,2
+Odisha,Urban,5.3,10.7,2.3
+Odisha,Rural,6.4,9.4,1.9
+Puducherry,Total,4.3,12.5,0.2
+Puducherry,Urban,4.3,12.5,0.2
+Puducherry,Rural,2.7,11.9,1.4
+Punjab,Total,5.7,21.6,2.1
+Punjab,Urban,3,20.4,1.3
+Punjab,Rural,6.8,22.1,2.4
+Rajasthan,Total,4.1,15.6,0.4
+Rajasthan,Urban,0.7,23,0.3
+Rajasthan,Rural,4.7,14.4,0.4
+Sikkim,Total,24.6,50,14.1
+Sikkim,Urban,26.7,57.5,16.4
+Sikkim,Rural,21.4,38.9,10.6
+Tamil Nadu,Total,4.8,11.1,2.1
+Tamil Nadu,Urban,6.4,13.4,2.5
+Tamil Nadu,Rural,3.4,9.1,1.7
+Telangana,Total,5.2,25.3,1.5
+Telangana,Urban,5,28.8,1.5
+Telangana,Rural,5.5,20.8,1.3
+Tripura,Total,7.6,38,2.7
+Tripura,Urban,2.4,44.9,2.2
+Tripura,Rural,8.3,37.1,2.7
+Uttar Pradesh,Total,22.9,34.3,5
+Uttar Pradesh,Urban,2.6,18.6,1.1
+Uttar Pradesh,Rural,26.1,36.7,5.6
+Uttarakhand,Total,18.5,36.9,7.6
+Uttarakhand,Urban,25.7,49.2,14.7
+Uttarakhand,Rural,15.7,32.1,4.8
+West Bengal,Total,7.1,32.3,2
+West Bengal,Urban,6.9,25,2.3
+West Bengal,Rural,7.1,33.1,2
