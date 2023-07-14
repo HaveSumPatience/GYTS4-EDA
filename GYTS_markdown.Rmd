@@ -2,8 +2,9 @@
 title: "Tobacco Case Study"
 author: "Tanmoy Sahoo"
 date: "2023-07-11"
-output: github_document
-always_allow_html: true
+output:
+  html_document:
+    code_folding: hide
 ---
 
 ## Overview
