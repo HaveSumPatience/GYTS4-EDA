@@ -2,9 +2,8 @@
 title: "Tobacco Case Study"
 author: "Tanmoy Sahoo"
 date: "2023-07-11"
-output:
-  html_document:
-    code_folding: hide
+output: github_document
+always_allow_html: true
 ---
 
 ## Overview
@@ -19,7 +18,7 @@ library(rmarkdown)
 
 ### Table Preview for state-wise data
 ```{r importing_data, include=FALSE}
-state_usage_total <- read_csv('./SQL_imports/GYTS4_state_usage_total.csv')
+state_usage_total <- read_csv('./Sources/GYTS4_state_usage_total.csv')
 ```
 ```{r showing_table, echo=TRUE}
 paged_table(state_usage_total)
@@ -50,7 +49,7 @@ top_ten_graph
 
 Let's see the difference between urban and rural usage in all states:
 ```{r importing-pivoted-table, include=FALSE}
-state_ur <- read.csv('./SQL_imports/state_ur.csv')
+state_ur <- read.csv('./Sources/state_ur.csv')
 ```
 ```{r echo=TRUE}
 paged_table(state_ur)
@@ -77,7 +76,7 @@ state_ur_graph
 Also known as electronic cigarettes, they can potentially help people addicted to smoked tobacco products such as cigarettes. But how commonly are they used in India? Are students aware of them?
 
 ```{r importing-ecig-table, include=FALSE}
-state_ecig <- read.csv('./SQL_imports/state_ecig.csv')
+state_ecig <- read.csv('./Sources/state_ecig.csv')
 ```
 ```{r}
 paged_table(state_ecig)
@@ -124,7 +123,7 @@ There is a stronger correlation between tobacco users and e-cigarette use, indic
 ## Maps
 To top it all off, let's look at some maps I made through QGIS as R and shapefiles don't exactly mix well. 
 ```{r echo=FALSE}
-knitr::include_graphics('./Map Output/Current Tobacco users (Pretty Breaks).png')
-knitr::include_graphics('./Map Output/Current Tobacco users(Jenks).png')
+knitr::include_graphics('./Maps/pretty_breaks.png')
+knitr::include_graphics('./Maps/natural_breaks.png')
 ```
 That's all, folks.
