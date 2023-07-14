@@ -1,6 +1,6 @@
 # GYTS4-EDA
-An EDA on usage of tobaccco products by school-age students in India. The dataset was created by IIPS, Mumbai and can be downloaded [here](https://data.gov.in/catalogglobal-youth-tobacco-survey-gyts-4). The goal of this project is to evaluate the use of tobacco products by school-age Indian students on a state-by-state basis.
-You can view the end results by downloading GYTS_markdown.html. If you want to peruse the .rmd file and tweak the code, feel free to do so. I've provided all the data that I used to make this.
+An EDA on the usage of tobacco products by school-age students in India. The dataset was created by IIPS, Mumbai and can be downloaded [here](https://data.gov.in/catalogglobal-youth-tobacco-survey-gyts-4). The goal of this project is to evaluate the use of tobacco products by school-age Indian students on a state-by-state basis.
+**You can view the results by downloading GYTS_markdown.html**. If you want to peruse the .rmd file and tweak the code, feel free to do so. I've provided all the data that I used to make this.
 
 ## Analysis
 First, I cleaned up the original data into portions that are easier to understand and use in R. You can look at the datasets I've created in the [Sources](https://github.com/HaveSumPatience/GYTS4-EDA/tree/main/Sources) folder. Here's a breakdown of the different files:
